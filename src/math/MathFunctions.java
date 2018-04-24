@@ -1,8 +1,9 @@
 package math;
 
-public class MathFunctions {
-void test() {
-	System.out.println("xdxdxd");
-}
-
+public class MathFunctions 
+{	
+	void test() 
+	{
+		System.out.println("xdxdxd");	// rly
+	}
 }
